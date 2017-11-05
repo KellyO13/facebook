@@ -1,0 +1,79 @@
+.facebook {
+    background-color: #f2f2f2;
+}
+
+
+/*logo*/
+.logo {
+	background-color: #426782;
+	text-align: center;
+}
+
+.logo a {
+	color:#ffffff;
+	display: inline-block;
+	font-family: 'Open Sans', sans-serif;
+    font-size:24px;
+    font-weight:700;
+	padding: 50px;
+    text-decoration: none;
+	}
+
+
+/*intro*/
+.intro {
+	
+}
+
+.intro h1 {
+    background-color: #ffff80 ;
+	border: 5px solid #e6e60b;
+	border-radius:15px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.intro a {
+	color: #4267b2;
+	text-decoration: none;
+}
+
+
+/*cta*/
+.cta {
+	margin: 0 auto;
+	text-align: center;
+	width: 80%;
+}
+
+.cta input {
+	box-sizing: border-box;
+    display: block;
+    margin: -1px 0;
+    padding: 10px;
+    width: 100%;
+}
+
+.cta button {
+	color: #fff;
+	border: none;
+	border-radius: 6px;
+	width: 100%;
+	padding: 10px 0;
+	margin: 10px 0px;
+}
+
+.cta .login {
+	background-color: #4267b2;
+}
+
+.cta .newaccount {
+	background-color: forestgreen;
+	width: 30%;
+}
+
+.cta p a {
+	color:#4267b2;
+	text-decoration: none;
+
+}
